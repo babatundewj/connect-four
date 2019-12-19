@@ -60,7 +60,13 @@ h1 {
     font-family: "Comic Sans";
     line-height: 3em;
 }
-.restart {
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.restart, .newSession {
     display: block;
     margin: 10px auto;
     font-size: 2em;
