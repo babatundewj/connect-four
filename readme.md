@@ -6,7 +6,7 @@ This game requires two players. Red moves first, and black moves second.
 
 Simply click anywhere on your column where you would like your chip to go. The first person to connect four slots vertically, horizontally, or diagonally wins the match!
 
-Ready to play? Click <a href="/">here</a>
+Ready to play? Click <a href="https://hardcore-jepsen-207d3d.netlify.com">here</a>
 
 
 ***Anticipated updates during next release***
